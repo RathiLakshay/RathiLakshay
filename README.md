@@ -5,7 +5,7 @@
 
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lakshay-rathee/)
-[![LeetCode user RathiLakshay](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRathiLakshay&logo=leetcode&logoColor=yellow)](https://leetcode.com/RathiLakshay/)
+[![LeetCode user lakshay_rathee08](https://img.shields.io/badge/dynamic/json?style=flat&labelColor=black&color=%23ffa116&label=Leetcode&query=ratingQuantile&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2FRathiLakshay&logo=leetcode&logoColor=yellow)](https://leetcode.com/RathiLakshay/)
 [![Codeforces](https://codeforces-readme-stats.vercel.app/api/badge?username=RimRhymer08)](https://codeforces.com/profile/RimRhymer08)
 [![Codechef](https://cp-logo.vercel.app/codechef/rathilakshay95)](https://www.codechef.com/users/rathilakshay95)
 
